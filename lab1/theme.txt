@@ -1,15 +1,15 @@
 Theme:
-# Cookie clicker
+# View Collector
 
 Resource:
-* Cookie
+* Views
 
 Generators:
-* Cursor
-* Grandmom
-* Cookie Factory
+* Educational Video
+* Social Experiment
+* Click-Bait
 
 Story:
-* Cookie? Click on the button to create cookies.
-* Your cookies are talked about for miles around.
-* C is for cookie. And that is good enough for me.
+* Views? Click on the button to create cookies.
+* Your videos are talked about for miles around.
+* You are youtube famous! Congrats, here's your diamond play button.
