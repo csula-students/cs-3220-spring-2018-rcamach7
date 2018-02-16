@@ -1,0 +1,15 @@
+Theme:
+# View Collector
+
+Resource:
+* Views
+
+Generators:
+* Educational Video
+* Social Experiment
+* Click-Bait
+
+Story:
+* Views? Click on the button to create cookies.
+* Your videos are talked about for miles around.
+* You are youtube famous! Congrats, here's your diamond play button.
