@@ -1,0 +1,28 @@
+header {
+	text-align: center;
+}
+
+.story {
+	background-color: black;
+	color: white;
+	overflow: auto;
+	width: 800px;
+}
+
+.nav {
+	padding-right: 630px;
+}
+
+.container{
+	display: flex;
+}
+.generator {
+	padding: 20px;
+	border: 1px solid black;
+	margin-right: 50px;
+	width: 500px;
+}
+
+button {
+	padding: 5px;
+}
