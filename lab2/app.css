@@ -1,0 +1,51 @@
+header {
+	text-align: center;
+}
+
+.story {
+	background-color: black;
+	color: white;
+	overflow: auto;
+	width: auto;
+}
+
+.gameStart {
+	align-content: right;
+	display: flex;
+}
+
+.currentViews {
+	float: left;
+}
+
+.starter {
+	float: right;
+}
+
+.clearFix {
+	text-align: center;
+}
+
+.container {
+	display: flex;
+}
+
+
+.viewGenerators {
+	padding: 20px;
+	border: 1px solid black;
+	margin-right: 50px;
+	width: 500px;
+}
+
+.generatorInfo {
+	text-align: center;
+}
+
+button {
+	padding: 5px;
+}
+
+footer {
+	text-align: center;
+}
